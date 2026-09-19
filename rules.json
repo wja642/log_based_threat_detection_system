@@ -1,0 +1,368 @@
+[
+    {
+        "id": 1,
+        "name": "Rule-1",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 2,
+        "name": "Rule-2",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 3,
+        "name": "Rule-3",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 4,
+        "name": "Rule-4",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 5,
+        "name": "Rule-5",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 6,
+        "name": "Rule-6",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 7,
+        "name": "Rule-7",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 8,
+        "name": "Rule-8",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 9,
+        "name": "Rule-9",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 10,
+        "name": "Rule-10",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 11,
+        "name": "Rule-11",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 12,
+        "name": "Rule-12",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 13,
+        "name": "Rule-13",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 14,
+        "name": "Rule-14",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 15,
+        "name": "Rule-15",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 16,
+        "name": "Rule-16",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 17,
+        "name": "Rule-17",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 18,
+        "name": "Rule-18",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 19,
+        "name": "Rule-19",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 20,
+        "name": "Rule-20",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 21,
+        "name": "Rule-21",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 22,
+        "name": "Rule-22",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 23,
+        "name": "Rule-23",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 24,
+        "name": "Rule-24",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 25,
+        "name": "Rule-25",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 26,
+        "name": "Rule-26",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 27,
+        "name": "Rule-27",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 28,
+        "name": "Rule-28",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 29,
+        "name": "Rule-29",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 30,
+        "name": "Rule-30",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 31,
+        "name": "Rule-31",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 32,
+        "name": "Rule-32",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 33,
+        "name": "Rule-33",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 34,
+        "name": "Rule-34",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 35,
+        "name": "Rule-35",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 36,
+        "name": "Rule-36",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 37,
+        "name": "Rule-37",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 38,
+        "name": "Rule-38",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 39,
+        "name": "Rule-39",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 40,
+        "name": "Rule-40",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 41,
+        "name": "Rule-41",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 42,
+        "name": "Rule-42",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 43,
+        "name": "Rule-43",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 44,
+        "name": "Rule-44",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 45,
+        "name": "Rule-45",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 46,
+        "name": "Rule-46",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 47,
+        "name": "Rule-47",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 48,
+        "name": "Rule-48",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 49,
+        "name": "Rule-49",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 50,
+        "name": "Rule-50",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 51,
+        "name": "Rule-51",
+        "pattern": "Failed password",
+        "severity": "High"
+    },
+    {
+        "id": 52,
+        "name": "Rule-52",
+        "pattern": "root login",
+        "severity": "Critical"
+    },
+    {
+        "id": 53,
+        "name": "Rule-53",
+        "pattern": "port scan",
+        "severity": "Medium"
+    },
+    {
+        "id": 54,
+        "name": "Rule-54",
+        "pattern": "sql",
+        "severity": "High"
+    },
+    {
+        "id": 55,
+        "name": "Rule-55",
+        "pattern": "<script>",
+        "severity": "High"
+    },
+    {
+        "id": 56,
+        "name": "Rule-56",
+        "pattern": "malware",
+        "severity": "Critical"
+    },
+    {
+        "id": 57,
+        "name": "Rule-57",
+        "pattern": "ransomware",
+        "severity": "Critical"
+    },
+    {
+        "id": 58,
+        "name": "Rule-58",
+        "pattern": "access denied",
+        "severity": "High"
+    },
+    {
+        "id": 59,
+        "name": "Rule-59",
+        "pattern": "unauthorized",
+        "severity": "High"
+    },
+    {
+        "id": 60,
+        "name": "Rule-60",
+        "pattern": "too many requests",
+        "severity": "Critical"
+    },
+    {
+        "id": 61,
+        "name": "",
+        "pattern": "",
+        "severity": ""
+    }
+]
